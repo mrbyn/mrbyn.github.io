@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IT &amp; LAW</title>
+  
+  <subtitle>Study IT &amp; LAW</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://mrbyn.github.io/"/>
+  <updated>2018-07-14T05:43:51.295Z</updated>
+  <id>http://mrbyn.github.io/</id>
+  
+  <author>
+    <name>Mr.Byn</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first-post</title>
+    <link href="http://mrbyn.github.io/2018/07/14/first-post/"/>
+    <id>http://mrbyn.github.io/2018/07/14/first-post/</id>
+    <published>2018-07-14T05:13:02.000Z</published>
+    <updated>2018-07-14T05:43:51.295Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="hexo-blogging"><a href="#hexo-blogging" class="headerlink" title="hexo blogging"></a>hexo blogging</h2><p><strong>tranquilpeak 설명</strong><br><a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/DOCUMENTATION.md" target="_blank" rel="noopener">https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/DOCUMENTATION.md</a></p><p><strong>hexo 한글 docs</strong><br><a href="https://hexo.io/ko/docs/configuration.html" target="_blank" rel="noopener">https://hexo.io/ko/docs/configuration.html</a> </p><p><strong>reference in here</strong><br><a href="https://kdydesign.github.io/2017/06/23/start-hexo-blog/" target="_blank" rel="noopener">https://kdydesign.github.io/2017/06/23/start-hexo-blog/</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;hexo-blogging&quot;&gt;&lt;a href=&quot;#hexo-blogging&quot; class=&quot;headerlink&quot; title=&quot;hexo blogging&quot;&gt;&lt;/a&gt;hexo blogging&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;tranquilpeak 설명&lt;/s
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
